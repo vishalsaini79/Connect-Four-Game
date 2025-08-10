@@ -1,1 +1,4 @@
-# Connect-Four-Game
+- Connect 4 game built using HTML, CSS, and vanilla JavaScript.
+- Two players alternate dropping colored discs into a 7×6 grid.
+- Game detects wins horizontally, vertically, and diagonally.
+- Lightweight and uses no external libraries or frameworks.
